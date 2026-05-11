@@ -31,7 +31,7 @@ Federated Learning (FL) enables collaborative training of distributed clients wh
 
 ## Federated Datasets
 
-- CIFAR-10/100 ([Download](https://www.cs.toronto.edu/~kriz/cifar.html)), TinyImageNet ([Download](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet)), HAM10000 ([Download](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)).
+- **CIFAR-10/100** ([Download](https://www.cs.toronto.edu/~kriz/cifar.html)), **TinyImageNet** ([Download](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet)), **HAM10000** ([Download](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)).
 - **Digits**: include 4 domains (_MNIST, USPS, SVHN, SYN_). 【Download Link -> [[Google Drive]](https://drive.google.com/file/d/11kJ_xVB37J3_AXflccevnK-MJS8ETFcv/view?usp=sharing)】
 - **Office-Caltech**: include 4 domains (_Caltech, Amazon, Webcam, DSLR_). 【Download Link -> [[Google Drive]](https://drive.google.com/file/d/1xm-_gh60c8iacCqTIHH0-q7ZUEexZLBo/view?usp=sharing)】
 
