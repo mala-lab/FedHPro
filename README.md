@@ -37,9 +37,9 @@ Federated Learning (FL) enables collaborative training of distributed clients wh
 
 ## Run Experiments
 
-- Run FedHPro on **CIFAR100** with Non-IID $\mathtt{NID1}_{0.2}$ and Long-tailed $\rho=100$:
+- Run FedHPro on **CIFAR10** with Non-IID $\mathtt{NID1}_{0.5}$ and Long-tailed $\rho=100$:
   ```python
-  python3 main_run.py --dataset cifar100 --num_classes 100 --non_iid_alpha 0.2 --imb_factor 0.01 --length_of_hp 5 --rounds_of_hp 30 --hp_info_t 0.05
+  python3 main_run.py --dataset cifar10 --num_classes 10 --repeat_num 1 --batch_real 100 --non_iid_alpha 0.5 --imb_factor 0.01 --length_of_hp 5 --rounds_of_hp 30 --hp_info_t 0.05
   ```
 
 ## Citation
