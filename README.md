@@ -11,7 +11,7 @@
 
 </div>
 
-Official implementation of [FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](https://github.com/mala-lab/FedHPro).
+Official implementation of [FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](https://arxiv.org/abs/2605.13475).
 
 ## Abstract
 
