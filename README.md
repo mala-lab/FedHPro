@@ -5,7 +5,7 @@
 <div align="center">
 
 ![](https://img.shields.io/github/last-commit/mala-lab/FedHPro?color=blue)
-![](https://img.shields.io/github/stars/mala-lab/FedHPro?color=blue)
+![](https://img.shields.io/github/stars/mala-lab/FedHPro?color=yellow)
 ![](https://img.shields.io/github/forks/mala-lab/FedHPro?color=lightblue)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.13475-b31b1b)](https://arxiv.org/abs/2605.13475)
