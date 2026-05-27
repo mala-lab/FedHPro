@@ -7,8 +7,8 @@
 ![](https://img.shields.io/github/last-commit/mala-lab/FedHPro?color=blue)
 ![](https://img.shields.io/github/stars/mala-lab/FedHPro?color=blue)
 ![](https://img.shields.io/github/forks/mala-lab/FedHPro?color=lightblue)
-[![License: MIT](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
+![](https://img.shields.io/badge/PRs-Welcome-green)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.13475-b31b1b)](https://arxiv.org/abs/2605.13475)
 </div>
 
 Official implementation of [FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](https://arxiv.org/abs/2605.13475).
