@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/github/last-commit/mala-lab/FedHPro?color=blue)
 ![](https://img.shields.io/github/stars/mala-lab/FedHPro?color=yellow)
-![](https://img.shields.io/github/forks/mala-lab/FedHPro?color=lightblue)
+![](https://img.shields.io/github/forks/mala-lab/FedHPro?color=lightblue&label=Forks)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.13475-b31b1b)](https://arxiv.org/abs/2605.13475)
 </div>
@@ -32,7 +32,9 @@ Federated Learning (FL) enables collaborative training of distributed clients wh
 ## Federated Datasets
 
 - **CIFAR-10/100** ([Download](https://www.cs.toronto.edu/~kriz/cifar.html)), **TinyImageNet** ([Download](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet)), **HAM10000** ([Download](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)).
+
 - **Digits**: include 4 domains (_MNIST, USPS, SVHN, SYN_). 【Download Link -> [[Google Drive]](https://drive.google.com/file/d/11kJ_xVB37J3_AXflccevnK-MJS8ETFcv/view?usp=sharing)】
+
 - **Office-Caltech**: include 4 domains (_Caltech, Amazon, Webcam, DSLR_). 【Download Link -> [[Google Drive]](https://drive.google.com/file/d/1xm-_gh60c8iacCqTIHH0-q7ZUEexZLBo/view?usp=sharing)】
 
 ## Run Experiments
@@ -44,11 +46,14 @@ Federated Learning (FL) enables collaborative training of distributed clients wh
 
 ## Citation
 
-```
-@inproceedings{wang2026fedhpro,
-    author={Wang, Huan and Shen, Jun and Li, Haoran and Yang, Zhenyu and Yan, Jun and Manjang, Ousman and Zhai, Yanlong and Wu, Di and Pang, Guansong},
-    title={FedHPro: Federated Hyper-Prototype Learning via Gradient Matching},
-    booktitle={International Conference on Machine Learning},
-    year={2026}
-}
-```
+- If you would like to discuss any details about this work, please feel free to email me (huanwang1018@gmail.com) or open a GitHub issue.
+
+- If you find this work useful, please cite our paper:
+  ```bibtex
+  @inproceedings{wang2026fedhpro,
+      author={Wang, Huan and Shen, Jun and Li, Haoran and Yang, Zhenyu and Yan, Jun and Manjang, Ousman and Zhai, Yanlong and Wu, Di and Pang, Guansong},
+      title={FedHPro: Federated Hyper-Prototype Learning via Gradient Matching},
+      booktitle={International Conference on Machine Learning},
+      year={2026}
+  }
+  ```
