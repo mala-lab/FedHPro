@@ -44,11 +44,11 @@ Federated Learning (FL) enables collaborative training of distributed clients wh
   python3 main_run.py --dataset cifar10 --num_classes 10 --repeat_num 1 --batch_real 100 --non_iid_alpha 0.5 --imb_factor 0.01 --length_of_hp 5 --rounds_of_hp 30 --hp_info_t 0.05 --device 'cuda:0'
   ```
 
-## Citation
+## 📚 Citation
 
 - If you would like to discuss any details about this work, please feel free to email me (huanwang1018@gmail.com) or open a GitHub issue (email is usually replied faster; sorry for any delay).
 
-- If you find this work useful, please cite our paper:
+- If this repository or the paper is helpful to your work, please cite:
   ```bibtex
   @inproceedings{wang2026fedhpro,
       author={Wang, Huan and Shen, Jun and Li, Haoran and Yang, Zhenyu and Yan, Jun and Manjang, Ousman and Zhai, Yanlong and Wu, Di and Pang, Guansong},
